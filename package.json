@@ -1,0 +1,6 @@
+{
+  "name": "tp-webgpu-browser-slm",
+  "version": "1.0.0",
+  "description": "WebGPU In-Browser SLM Studio",
+  "scripts": { "test": "bash scripts/validate.sh" }
+}

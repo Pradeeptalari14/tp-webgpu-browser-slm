@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: webgpu-asset-server
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: webgpu-assets
+  template:
+    metadata:
+      labels:
+        app: webgpu-assets
+    spec:
+      containers:
+      - name: static-cdn
+        image: nginx:alpine
+        ports:
+        - containerPort: 80
