@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # WebGPU In-Browser Small LM Studio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -69,3 +72,6 @@ bash scripts/validate.sh
 ├── SECURITY.md
 └── README.md
 ```
+
+---
+*Synchronized with [WebGPU In-Browser Small LM Studio Studio](https://pradeeptalari.me/tools/webgpu-browser-slm/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
